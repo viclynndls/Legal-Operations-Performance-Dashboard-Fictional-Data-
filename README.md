@@ -162,6 +162,6 @@ For questions about this project or to view additional dashboards:
 
 Victoria — Data Analyst
 
-LinkedIn: www.linkedin.com/in/victoriadls
+LinkedIn: [www.linkedin.com/in/victoriadls](www.linkedin.com/in/victoriadls)
 
-Portfolio: https://github.com/viclynndls/Legal-Operations-Performance-Dashboard-Fictional-Data-/tree/main
+Portfolio: [https://github.com/viclynndls](https://github.com/viclynndls)
