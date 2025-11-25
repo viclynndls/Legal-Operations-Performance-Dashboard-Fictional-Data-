@@ -1,0 +1,301 @@
+Client_ID ,Date_of_Intake ,Case_Type,Lead_Source,Intake_Status,Intake_Agent
+C0001,4/3/2023,Uber/Lyft Accident,Social Media,Approved,Agent D
+C0002,2/13/2024,Dog Bite,Phone,Approved,Agent C
+C0003,2/28/2024,Uber/Lyft Accident,Phone,Approved,Agent A
+C0004,3/9/2023,Auto Accident,Phone,Rejected,Agent E
+C0005,3/11/2024,Slip and Fall,Referral,Approved,Agent B
+C0006,5/23/2024,Dog Bite,Website,Pending,Agent D
+C0007,1/3/2023,Auto Accident,Phone,Approved,Agent C
+C0008,2/13/2023,Motorcycle Accident,Website,Pending,Agent D
+C0009,5/3/2024,Uber/Lyft Accident,Phone,Approved,Agent E
+C0010,12/26/2023,Auto Accident,Phone,Approved,Agent B
+C0011,3/23/2024,Slip and Fall,Social Media,Approved,Agent D
+C0012,4/12/2023,Dog Bite,Phone,Pending,Agent D
+C0013,6/28/2023,Auto Accident,Phone,Pending,Agent A
+C0014,5/28/2024,Slip and Fall,Social Media,Approved,Agent B
+C0015,9/30/2023,Uber/Lyft Accident,Phone,Approved,Agent E
+C0016,8/22/2024,Uber/Lyft Accident,Referral,Rejected,Agent C
+C0017,12/6/2024,Dog Bite,Website,Rejected,Agent C
+C0018,10/1/2023,Dog Bite,Phone,Rejected,Agent B
+C0019,7/15/2023,Auto Accident,Social Media,Approved,Agent B
+C0020,2/18/2024,Slip and Fall,Phone,Rejected,Agent C
+C0021,9/13/2024,Dog Bite,Referral,Approved,Agent A
+C0022,12/13/2023,Dog Bite,Referral,Approved,Agent A
+C0023,12/20/2023,Motorcycle Accident,Website,Approved,Agent B
+C0024,1/20/2023,Uber/Lyft Accident,Website,Pending,Agent D
+C0025,12/28/2023,Auto Accident,Website,Approved,Agent B
+C0026,5/19/2024,Motorcycle Accident,Referral,Approved,Agent C
+C0027,2/2/2023,Dog Bite,Phone,Approved,Agent B
+C0028,9/16/2024,Motorcycle Accident,Social Media,Approved,Agent A
+C0029,10/17/2024,Dog Bite,Phone,Approved,Agent A
+C0030,11/27/2023,Motorcycle Accident,Phone,Approved,Agent D
+C0031,12/23/2023,Uber/Lyft Accident,Referral,Approved,Agent C
+C0032,3/25/2024,Auto Accident,Phone,Rejected,Agent A
+C0033,4/29/2024,Dog Bite,Website,Approved,Agent C
+C0034,3/19/2023,Slip and Fall,Website,Rejected,Agent E
+C0035,12/23/2024,Dog Bite,Website,Approved,Agent B
+C0036,8/14/2024,Slip and Fall,Phone,Rejected,Agent A
+C0037,10/24/2024,Auto Accident,Social Media,Pending,Agent D
+C0038,2/9/2024,Dog Bite,Referral,Approved,Agent E
+C0039,1/9/2024,Dog Bite,Phone,Approved,Agent C
+C0040,11/26/2024,Auto Accident,Referral,Approved,Agent C
+C0041,11/3/2023,Slip and Fall,Phone,Approved,Agent B
+C0042,1/28/2024,Motorcycle Accident,Website,Approved,Agent B
+C0043,10/1/2024,Uber/Lyft Accident,Website,Approved,Agent B
+C0044,5/22/2024,Dog Bite,Website,Approved,Agent E
+C0045,7/29/2024,Dog Bite,Social Media,Pending,Agent B
+C0046,5/29/2024,Uber/Lyft Accident,Social Media,Approved,Agent A
+C0047,1/14/2024,Uber/Lyft Accident,Social Media,Approved,Agent B
+C0048,4/27/2023,Auto Accident,Phone,Pending,Agent B
+C0049,4/6/2024,Slip and Fall,Website,Approved,Agent A
+C0050,7/11/2024,Slip and Fall,Website,Approved,Agent A
+C0051,8/6/2024,Slip and Fall,Social Media,Pending,Agent A
+C0052,9/20/2023,Uber/Lyft Accident,Phone,Approved,Agent C
+C0053,3/21/2023,Slip and Fall,Referral,Pending,Agent A
+C0054,10/21/2024,Motorcycle Accident,Phone,Approved,Agent B
+C0055,2/23/2024,Motorcycle Accident,Referral,Approved,Agent C
+C0056,1/27/2024,Auto Accident,Referral,Pending,Agent D
+C0057,3/5/2024,Motorcycle Accident,Referral,Approved,Agent B
+C0058,10/27/2024,Slip and Fall,Phone,Approved,Agent D
+C0059,7/29/2024,Slip and Fall,Referral,Approved,Agent C
+C0060,5/11/2023,Slip and Fall,Phone,Pending,Agent B
+C0061,6/25/2024,Auto Accident,Referral,Approved,Agent A
+C0062,5/5/2024,Slip and Fall,Referral,Approved,Agent D
+C0063,7/31/2024,Dog Bite,Social Media,Approved,Agent B
+C0064,10/7/2023,Motorcycle Accident,Referral,Approved,Agent C
+C0065,8/18/2024,Slip and Fall,Phone,Approved,Agent C
+C0066,5/1/2023,Slip and Fall,Social Media,Approved,Agent B
+C0067,8/5/2024,Motorcycle Accident,Phone,Approved,Agent C
+C0068,11/10/2024,Slip and Fall,Referral,Approved,Agent D
+C0069,9/17/2024,Slip and Fall,Phone,Rejected,Agent B
+C0070,9/26/2024,Uber/Lyft Accident,Referral,Approved,Agent B
+C0071,2/5/2024,Auto Accident,Website,Approved,Agent C
+C0072,5/17/2024,Dog Bite,Social Media,Approved,Agent B
+C0073,1/30/2024,Auto Accident,Referral,Approved,Agent A
+C0074,6/10/2024,Dog Bite,Referral,Approved,Agent D
+C0075,7/9/2023,Uber/Lyft Accident,Website,Approved,Agent D
+C0076,5/28/2024,Slip and Fall,Website,Pending,Agent D
+C0077,8/10/2023,Auto Accident,Phone,Approved,Agent A
+C0078,7/17/2024,Motorcycle Accident,Social Media,Rejected,Agent A
+C0079,4/2/2024,Motorcycle Accident,Social Media,Approved,Agent C
+C0080,5/25/2024,Motorcycle Accident,Phone,Approved,Agent D
+C0081,1/5/2023,Uber/Lyft Accident,Website,Approved,Agent B
+C0082,11/14/2023,Auto Accident,Social Media,Rejected,Agent D
+C0083,10/17/2023,Uber/Lyft Accident,Social Media,Rejected,Agent D
+C0084,4/27/2023,Auto Accident,Referral,Approved,Agent D
+C0085,3/4/2024,Auto Accident,Website,Approved,Agent A
+C0086,4/13/2024,Uber/Lyft Accident,Referral,Approved,Agent A
+C0087,3/9/2023,Dog Bite,Social Media,Approved,Agent C
+C0088,8/16/2024,Auto Accident,Referral,Approved,Agent A
+C0089,4/6/2024,Auto Accident,Social Media,Pending,Agent E
+C0090,7/5/2023,Motorcycle Accident,Social Media,Approved,Agent E
+C0091,5/27/2024,Auto Accident,Phone,Approved,Agent C
+C0092,4/24/2024,Dog Bite,Website,Approved,Agent B
+C0093,3/28/2023,Slip and Fall,Referral,Approved,Agent C
+C0094,12/18/2024,Dog Bite,Referral,Approved,Agent C
+C0095,3/23/2024,Motorcycle Accident,Referral,Approved,Agent D
+C0096,3/15/2024,Dog Bite,Referral,Rejected,Agent D
+C0097,2/16/2024,Slip and Fall,Website,Approved,Agent E
+C0098,2/25/2023,Motorcycle Accident,Referral,Rejected,Agent E
+C0099,2/7/2023,Uber/Lyft Accident,Referral,Approved,Agent C
+C0100,5/22/2023,Auto Accident,Phone,Approved,Agent A
+C0101,5/30/2024,Motorcycle Accident,Website,Pending,Agent B
+C0102,10/30/2023,Dog Bite,Social Media,Approved,Agent E
+C0103,10/13/2024,Auto Accident,Social Media,Approved,Agent E
+C0104,2/11/2023,Slip and Fall,Referral,Approved,Agent E
+C0105,5/9/2023,Motorcycle Accident,Social Media,Pending,Agent A
+C0106,1/22/2023,Slip and Fall,Social Media,Rejected,Agent D
+C0107,3/7/2023,Slip and Fall,Phone,Approved,Agent C
+C0108,8/25/2023,Auto Accident,Website,Approved,Agent D
+C0109,11/14/2024,Dog Bite,Referral,Pending,Agent A
+C0110,12/3/2024,Dog Bite,Referral,Rejected,Agent A
+C0111,12/23/2024,Motorcycle Accident,Phone,Pending,Agent E
+C0112,3/3/2024,Slip and Fall,Website,Approved,Agent C
+C0113,8/22/2023,Dog Bite,Phone,Pending,Agent D
+C0114,6/8/2024,Motorcycle Accident,Social Media,Approved,Agent C
+C0115,2/13/2024,Dog Bite,Social Media,Rejected,Agent D
+C0116,12/25/2023,Dog Bite,Referral,Approved,Agent A
+C0117,8/23/2023,Motorcycle Accident,Website,Approved,Agent C
+C0118,9/29/2023,Auto Accident,Referral,Approved,Agent A
+C0119,1/10/2024,Uber/Lyft Accident,Website,Approved,Agent B
+C0120,1/27/2024,Dog Bite,Phone,Approved,Agent A
+C0121,8/4/2023,Uber/Lyft Accident,Referral,Pending,Agent A
+C0122,12/10/2024,Uber/Lyft Accident,Referral,Approved,Agent A
+C0123,1/30/2023,Motorcycle Accident,Phone,Pending,Agent D
+C0124,5/3/2023,Motorcycle Accident,Social Media,Approved,Agent B
+C0125,5/26/2024,Auto Accident,Social Media,Approved,Agent B
+C0126,2/8/2023,Auto Accident,Website,Approved,Agent A
+C0127,3/13/2024,Auto Accident,Website,Approved,Agent B
+C0128,9/26/2024,Motorcycle Accident,Referral,Approved,Agent E
+C0129,3/26/2024,Dog Bite,Website,Pending,Agent C
+C0130,9/27/2024,Dog Bite,Referral,Pending,Agent A
+C0131,1/14/2023,Uber/Lyft Accident,Phone,Approved,Agent D
+C0132,8/14/2024,Uber/Lyft Accident,Website,Approved,Agent B
+C0133,4/1/2024,Slip and Fall,Social Media,Approved,Agent E
+C0134,2/5/2024,Slip and Fall,Phone,Pending,Agent B
+C0135,8/28/2023,Dog Bite,Referral,Approved,Agent A
+C0136,12/22/2024,Auto Accident,Social Media,Approved,Agent E
+C0137,3/27/2024,Slip and Fall,Referral,Approved,Agent C
+C0138,8/24/2024,Auto Accident,Referral,Pending,Agent D
+C0139,1/6/2024,Dog Bite,Website,Approved,Agent E
+C0140,5/31/2024,Slip and Fall,Website,Approved,Agent D
+C0141,6/5/2023,Motorcycle Accident,Phone,Approved,Agent C
+C0142,10/28/2023,Uber/Lyft Accident,Website,Approved,Agent B
+C0143,8/31/2023,Auto Accident,Social Media,Pending,Agent C
+C0144,4/21/2023,Slip and Fall,Referral,Approved,Agent E
+C0145,6/6/2023,Uber/Lyft Accident,Phone,Approved,Agent A
+C0146,3/11/2023,Motorcycle Accident,Referral,Rejected,Agent E
+C0147,6/13/2023,Auto Accident,Referral,Approved,Agent E
+C0148,1/27/2024,Auto Accident,Phone,Approved,Agent C
+C0149,2/3/2024,Auto Accident,Social Media,Approved,Agent A
+C0150,4/20/2024,Slip and Fall,Referral,Approved,Agent A
+C0151,9/9/2023,Motorcycle Accident,Referral,Pending,Agent A
+C0152,7/20/2024,Motorcycle Accident,Social Media,Approved,Agent E
+C0153,2/5/2023,Dog Bite,Phone,Approved,Agent A
+C0154,9/29/2023,Uber/Lyft Accident,Phone,Rejected,Agent D
+C0155,11/19/2023,Slip and Fall,Website,Pending,Agent A
+C0156,12/12/2023,Dog Bite,Website,Approved,Agent D
+C0157,5/3/2024,Uber/Lyft Accident,Website,Approved,Agent C
+C0158,8/7/2023,Dog Bite,Referral,Approved,Agent C
+C0159,12/9/2023,Slip and Fall,Phone,Pending,Agent C
+C0160,1/3/2024,Motorcycle Accident,Phone,Approved,Agent C
+C0161,10/25/2023,Uber/Lyft Accident,Phone,Approved,Agent B
+C0162,2/13/2024,Dog Bite,Website,Approved,Agent A
+C0163,10/25/2024,Slip and Fall,Phone,Rejected,Agent A
+C0164,12/18/2024,Slip and Fall,Website,Approved,Agent A
+C0165,3/21/2023,Uber/Lyft Accident,Referral,Approved,Agent C
+C0166,4/19/2023,Slip and Fall,Phone,Approved,Agent D
+C0167,7/30/2024,Slip and Fall,Referral,Approved,Agent B
+C0168,8/14/2023,Auto Accident,Phone,Approved,Agent D
+C0169,7/12/2024,Auto Accident,Social Media,Approved,Agent C
+C0170,6/23/2023,Dog Bite,Website,Pending,Agent B
+C0171,8/11/2024,Uber/Lyft Accident,Phone,Rejected,Agent E
+C0172,5/3/2023,Uber/Lyft Accident,Social Media,Approved,Agent B
+C0173,5/1/2024,Auto Accident,Social Media,Approved,Agent D
+C0174,6/6/2023,Auto Accident,Phone,Pending,Agent B
+C0175,8/4/2024,Dog Bite,Phone,Approved,Agent C
+C0176,1/27/2024,Auto Accident,Website,Approved,Agent D
+C0177,4/25/2024,Uber/Lyft Accident,Social Media,Rejected,Agent E
+C0178,6/2/2023,Auto Accident,Social Media,Approved,Agent B
+C0179,8/9/2023,Slip and Fall,Referral,Rejected,Agent C
+C0180,2/15/2023,Dog Bite,Referral,Pending,Agent C
+C0181,3/7/2024,Slip and Fall,Referral,Pending,Agent D
+C0182,6/7/2024,Uber/Lyft Accident,Phone,Approved,Agent A
+C0183,8/28/2024,Slip and Fall,Referral,Approved,Agent D
+C0184,7/28/2023,Motorcycle Accident,Website,Approved,Agent E
+C0185,10/12/2023,Uber/Lyft Accident,Website,Pending,Agent D
+C0186,10/22/2023,Dog Bite,Website,Pending,Agent C
+C0187,1/14/2023,Motorcycle Accident,Website,Approved,Agent B
+C0188,2/1/2024,Uber/Lyft Accident,Phone,Approved,Agent A
+C0189,2/19/2024,Slip and Fall,Website,Approved,Agent C
+C0190,9/28/2024,Slip and Fall,Website,Rejected,Agent B
+C0191,3/5/2024,Auto Accident,Referral,Approved,Agent D
+C0192,6/11/2024,Dog Bite,Phone,Approved,Agent C
+C0193,8/18/2023,Uber/Lyft Accident,Website,Rejected,Agent B
+C0194,9/1/2023,Motorcycle Accident,Referral,Approved,Agent C
+C0195,11/26/2024,Motorcycle Accident,Referral,Approved,Agent E
+C0196,4/8/2024,Slip and Fall,Social Media,Approved,Agent B
+C0197,2/5/2024,Auto Accident,Website,Approved,Agent B
+C0198,2/9/2023,Slip and Fall,Phone,Approved,Agent E
+C0199,12/15/2023,Dog Bite,Referral,Approved,Agent A
+C0200,11/10/2023,Auto Accident,Referral,Pending,Agent B
+C0201,1/31/2023,Uber/Lyft Accident,Website,Pending,Agent A
+C0202,3/13/2024,Dog Bite,Website,Approved,Agent B
+C0203,2/28/2024,Motorcycle Accident,Phone,Approved,Agent D
+C0204,7/20/2023,Auto Accident,Social Media,Approved,Agent A
+C0205,3/4/2024,Uber/Lyft Accident,Social Media,Approved,Agent D
+C0206,9/19/2024,Dog Bite,Website,Approved,Agent D
+C0207,8/18/2023,Auto Accident,Website,Approved,Agent D
+C0208,11/15/2023,Slip and Fall,Social Media,Approved,Agent B
+C0209,9/3/2023,Motorcycle Accident,Website,Rejected,Agent B
+C0210,11/22/2024,Uber/Lyft Accident,Referral,Rejected,Agent A
+C0211,5/7/2023,Slip and Fall,Website,Approved,Agent A
+C0212,9/2/2024,Uber/Lyft Accident,Social Media,Approved,Agent E
+C0213,6/30/2023,Uber/Lyft Accident,Website,Approved,Agent A
+C0214,7/25/2024,Uber/Lyft Accident,Referral,Rejected,Agent E
+C0215,1/2/2024,Auto Accident,Referral,Approved,Agent D
+C0216,3/9/2023,Motorcycle Accident,Phone,Approved,Agent E
+C0217,12/24/2024,Auto Accident,Social Media,Approved,Agent D
+C0218,1/5/2024,Dog Bite,Referral,Approved,Agent A
+C0219,3/6/2024,Dog Bite,Social Media,Pending,Agent D
+C0220,1/9/2024,Motorcycle Accident,Social Media,Pending,Agent B
+C0221,5/7/2023,Auto Accident,Referral,Approved,Agent C
+C0222,8/30/2023,Auto Accident,Website,Pending,Agent C
+C0223,1/21/2024,Motorcycle Accident,Social Media,Approved,Agent A
+C0224,8/13/2024,Uber/Lyft Accident,Referral,Rejected,Agent E
+C0225,12/9/2024,Auto Accident,Referral,Approved,Agent D
+C0226,6/15/2023,Uber/Lyft Accident,Referral,Pending,Agent C
+C0227,2/12/2023,Motorcycle Accident,Website,Pending,Agent B
+C0228,3/25/2024,Motorcycle Accident,Referral,Approved,Agent E
+C0229,3/18/2023,Slip and Fall,Referral,Approved,Agent A
+C0230,5/8/2024,Slip and Fall,Website,Approved,Agent E
+C0231,6/1/2023,Dog Bite,Referral,Approved,Agent E
+C0232,4/1/2023,Dog Bite,Phone,Approved,Agent B
+C0233,2/28/2024,Uber/Lyft Accident,Website,Approved,Agent E
+C0234,3/2/2024,Auto Accident,Website,Approved,Agent C
+C0235,4/4/2023,Uber/Lyft Accident,Phone,Approved,Agent A
+C0236,11/11/2024,Motorcycle Accident,Website,Approved,Agent B
+C0237,5/18/2024,Slip and Fall,Social Media,Approved,Agent C
+C0238,3/27/2023,Uber/Lyft Accident,Social Media,Approved,Agent B
+C0239,9/18/2023,Uber/Lyft Accident,Social Media,Approved,Agent B
+C0240,2/1/2023,Slip and Fall,Social Media,Approved,Agent B
+C0241,8/3/2024,Slip and Fall,Social Media,Approved,Agent A
+C0242,3/8/2023,Auto Accident,Phone,Pending,Agent E
+C0243,4/30/2024,Motorcycle Accident,Referral,Approved,Agent B
+C0244,10/16/2024,Auto Accident,Referral,Pending,Agent B
+C0245,1/25/2023,Slip and Fall,Website,Approved,Agent D
+C0246,1/7/2024,Auto Accident,Website,Approved,Agent D
+C0247,11/18/2023,Uber/Lyft Accident,Social Media,Approved,Agent E
+C0248,6/24/2024,Dog Bite,Referral,Rejected,Agent A
+C0249,8/27/2023,Dog Bite,Referral,Pending,Agent D
+C0250,8/20/2023,Uber/Lyft Accident,Social Media,Approved,Agent C
+C0251,11/30/2024,Uber/Lyft Accident,Social Media,Approved,Agent C
+C0252,4/23/2024,Uber/Lyft Accident,Referral,Approved,Agent D
+C0253,6/7/2023,Dog Bite,Social Media,Approved,Agent E
+C0254,11/23/2024,Dog Bite,Phone,Pending,Agent B
+C0255,5/22/2023,Slip and Fall,Social Media,Approved,Agent E
+C0256,8/12/2023,Dog Bite,Phone,Pending,Agent B
+C0257,9/21/2023,Dog Bite,Social Media,Approved,Agent D
+C0258,8/28/2023,Dog Bite,Referral,Pending,Agent A
+C0259,6/29/2024,Slip and Fall,Website,Approved,Agent E
+C0260,2/26/2023,Slip and Fall,Phone,Pending,Agent A
+C0261,5/28/2024,Dog Bite,Referral,Approved,Agent A
+C0262,5/8/2024,Slip and Fall,Referral,Pending,Agent A
+C0263,2/2/2024,Auto Accident,Website,Approved,Agent A
+C0264,10/8/2023,Slip and Fall,Referral,Approved,Agent B
+C0265,1/15/2024,Motorcycle Accident,Website,Approved,Agent C
+C0266,5/26/2024,Uber/Lyft Accident,Social Media,Approved,Agent C
+C0267,8/11/2023,Motorcycle Accident,Social Media,Pending,Agent E
+C0268,7/23/2024,Uber/Lyft Accident,Website,Approved,Agent D
+C0269,10/26/2024,Uber/Lyft Accident,Phone,Pending,Agent B
+C0270,2/25/2024,Dog Bite,Referral,Approved,Agent A
+C0271,4/8/2023,Uber/Lyft Accident,Social Media,Approved,Agent B
+C0272,7/6/2024,Auto Accident,Phone,Approved,Agent B
+C0273,9/28/2023,Motorcycle Accident,Referral,Pending,Agent A
+C0274,3/11/2024,Motorcycle Accident,Referral,Approved,Agent C
+C0275,3/16/2024,Slip and Fall,Phone,Approved,Agent D
+C0276,4/27/2023,Motorcycle Accident,Phone,Approved,Agent C
+C0277,5/13/2024,Uber/Lyft Accident,Social Media,Pending,Agent C
+C0278,5/22/2023,Motorcycle Accident,Social Media,Approved,Agent D
+C0279,12/23/2024,Uber/Lyft Accident,Social Media,Approved,Agent D
+C0280,8/4/2023,Auto Accident,Phone,Approved,Agent E
+C0281,8/20/2023,Uber/Lyft Accident,Referral,Approved,Agent B
+C0282,8/12/2023,Uber/Lyft Accident,Website,Pending,Agent D
+C0283,3/21/2023,Auto Accident,Social Media,Approved,Agent E
+C0284,12/25/2024,Dog Bite,Social Media,Rejected,Agent A
+C0285,7/10/2024,Motorcycle Accident,Phone,Pending,Agent E
+C0286,1/4/2024,Slip and Fall,Referral,Approved,Agent D
+C0287,3/29/2024,Motorcycle Accident,Phone,Approved,Agent E
+C0288,11/2/2024,Dog Bite,Social Media,Approved,Agent D
+C0289,9/21/2023,Auto Accident,Referral,Approved,Agent C
+C0290,7/23/2024,Slip and Fall,Referral,Rejected,Agent A
+C0291,11/9/2024,Motorcycle Accident,Social Media,Approved,Agent D
+C0292,1/27/2024,Uber/Lyft Accident,Website,Approved,Agent D
+C0293,3/8/2023,Uber/Lyft Accident,Phone,Pending,Agent B
+C0294,9/18/2023,Auto Accident,Phone,Approved,Agent C
+C0295,9/27/2023,Auto Accident,Phone,Approved,Agent A
+C0296,10/7/2024,Auto Accident,Website,Approved,Agent E
+C0297,11/13/2023,Auto Accident,Social Media,Approved,Agent E
+C0298,9/30/2024,Dog Bite,Social Media,Approved,Agent D
+C0299,10/18/2024,Motorcycle Accident,Social Media,Approved,Agent C
+C0300,8/15/2024,Auto Accident,Phone,Approved,Agent D

@@ -1,0 +1,15 @@
+{
+  "name": "Jacoby & Meyers Clean Theme",
+  "dataColors": [
+    "#8A0F0F",
+    "#B31312",
+    "#333333",
+    "#555555",
+    "#D9CACA",
+    "#F2F2F2",
+    "#000000"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#8A0F0F"
+}
