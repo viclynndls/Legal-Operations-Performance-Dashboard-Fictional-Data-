@@ -1,2 +1,2 @@
 # Legal-Operations-Performance-Dashboard-Fictional-Data-
-This interactive Power BI dashboard was designed to simulate the analytics environment at a large law firm such as Jacoby &amp; Meyers.
+This interactive Power BI dashboard was designed to simulate the analytics environment at a large law firm such as Jacoby & Meyers. It provides leadership with real-time visibility into case performance, settlement outcomes, attorney workload, intake conversions, and operational bottlenecks. I built the data model, wrote all DAX measures, designed the staging funnel, and created all visuals to demonstrate my ability to deliver a production-ready analytics solution in a legal context.
