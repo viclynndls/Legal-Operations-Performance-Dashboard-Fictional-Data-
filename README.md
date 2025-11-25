@@ -19,6 +19,14 @@ The project includes:
 
 - Four fully formatted dashboard pages
 
+## 🔧 How to Use
+
+Click the live link [here](https://app.powerbi.com/view?r=eyJrIjoiNDU3YzQ2OTktN2E4ZC00ZjYzLTg5NDQtNjQwMzIyNjQ4NGFiIiwidCI6IjJkOTVlM2NlLTE3NmEtNDRhYS05MTY0LTk0MDY2ZTQxNGI4NSJ9) to explore the full dashboard.
+
+PDF dashboards are included for non-Power BI users.
+
+
+
 ## 📊 Dashboard Pages
 ### 1. Firmwide Performance Dashboard
 
@@ -82,13 +90,14 @@ DAX examples included in the repository.
 
 ## 🗂 Repository Structure
 ```
-/screenshots
+/Dashboards
    dashboard_pages.png
-/data
+/Data
    intake.csv
    cases.csv
    settlements.csv
    attorneys.csv
+/PowerBIThemes
 JM_Dashboard.pbix
 README.md
 ```
