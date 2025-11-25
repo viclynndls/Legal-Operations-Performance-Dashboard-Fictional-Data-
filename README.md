@@ -91,14 +91,19 @@ DAX examples included in the repository.
 ## 🗂 Repository Structure
 ```
 /Dashboards
-   dashboard_pages.png
+   Legal Operations Performance Dashboard (Fictional Data).pdf
+   Page 1.png
+   Page 2.png
+   Page 3.png
+   Page 4.png
 /Data
-   intake.csv
-   cases.csv
-   settlements.csv
    attorneys.csv
-/PowerBIThemes
-JM_Dashboard.pbix
+   cases.csv
+   intake.csv
+   settlements.csv
+/PowerBITheme
+   J&M_clean_themes.json
+Case Study for Performance Dashboard.pdf
 README.md
 ```
 
