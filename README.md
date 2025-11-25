@@ -86,7 +86,7 @@ PDF dashboards are included for non-Power BI users.
 
 - Caseload Per Attorney
 
-DAX examples included in the repository.
+DAX examples included in the Case Study.
 
 ## 🗂 Repository Structure
 ```
