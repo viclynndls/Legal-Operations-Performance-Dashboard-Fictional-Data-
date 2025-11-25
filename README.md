@@ -130,7 +130,17 @@ A custom theme was created using Jacoby & Meyers-inspired colors:
 
 ## 📁 Files Included
 
-- Legal Operations Performance Dashboard (Fictional Data).pbix
+- Legal Operations Performance Dashboard (Fictional Data).pdf
+
+- Page 1.png
+
+- Page 2.png
+
+- Page 3.png
+
+- Page 4.png
+
+- Legal Operations Performance Codebook.xlsx
 
 - attorneys.csv
   
@@ -140,12 +150,11 @@ A custom theme was created using Jacoby & Meyers-inspired colors:
 
 - settlements.csv
 
-- Legal Operations Performance Dashboard (Fictional Data).docx
+- J&M_clean_themes.json
 
+- Case Study for Performance Dashboard.pdf
 
-Images of dashboard pages
-
-This README
+- This README
 
 ## 📬 Contact
 
