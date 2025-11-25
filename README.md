@@ -140,4 +140,4 @@ Victoria — Data Analyst
 
 LinkedIn: www.linkedin.com/in/victoriadls
 
-Portfolio: (insert link once hosted)
+Portfolio: https://github.com/viclynndls/Legal-Operations-Performance-Dashboard-Fictional-Data-/tree/main
